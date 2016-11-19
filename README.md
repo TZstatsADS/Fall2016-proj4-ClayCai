@@ -8,5 +8,5 @@ Term: Fall 2016
 + Projec title: Topic Modelling from Music to Word
 + Project summary: kNN was first used as in the presentation PPT. Which performs poor. Then I tried Latent Dirichlet allocation with new features. Random forest was applied to train the model.
 
-![app](http://127.0.0.1:4321/#topic=0&lambda=1&term=)	
+![screenshot](https://github.com/TZstatsADS/Fall2016-proj4-ClayCai/blob/master/figs/LDA_20%20Topics.png)	
 Please see each subfolder for a README file.
