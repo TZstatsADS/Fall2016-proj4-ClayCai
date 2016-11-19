@@ -25,4 +25,4 @@ I chose 191 features from "analysis" data frame, including statistics such as me
 
 3> Randomforest
  
-Random forest was used for classification. The responce of the model is topic number 1~20. 
+Random forest was used for classification. The responce of the model is topic number 1~20. Then lyric word ranks are predicted using the word ranks of each topic.
