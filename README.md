@@ -13,5 +13,7 @@ The performance of LDA shows below, I chose 20 topics:
 ![screenshot](https://github.com/TZstatsADS/Fall2016-proj4-ClayCai/blob/master/figs/LDA_20%20Topics.png)	
 
 For example, the top lyric words for topic 20 are:
-![screenshot]()
+![screenshot](https://github.com/TZstatsADS/Fall2016-proj4-ClayCai/blob/master/figs/Screen%20Shot%202016-11-19%20at%201.55.53%20PM.png)
+
+LDAvis package was applied for visulization.
 
